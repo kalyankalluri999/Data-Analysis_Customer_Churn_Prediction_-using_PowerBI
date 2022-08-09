@@ -73,32 +73,47 @@ TotalCharges	The total amount charged to the customer
 Churn	Whether the customer left or not (Yes or No)
 
 
+
 *Plan of Action:-*
 
 1. Will built a machine learning model and will predict the results.
 
-2. Will perform deep analysis using any of the business intelligence tool.
+2. Will perform data analysis using any of the business intelligence tool.
+
 
 
 
 **Data Analysis using PowerBI**
 
+
 ![image](https://user-images.githubusercontent.com/93079874/183636333-650f9f84-7902-4ba2-9e81-b61da3e5473a.png)
+
+
+
 
 
 ![image](https://user-images.githubusercontent.com/93079874/183636447-48535621-49cc-41d0-b89b-a08a111f4e89.png)
 
 
+
+
+
 ![image](https://user-images.githubusercontent.com/93079874/183636627-e1bbf0c7-0b2f-4b6e-bd67-9ef87354178b.png)
+
+
+
 
 
 ![image](https://user-images.githubusercontent.com/93079874/183636732-31109250-9ac8-4336-8425-6b0faf049816.png)
 
 
+
+
+
 ![image](https://user-images.githubusercontent.com/93079874/183636825-c225d495-222f-4cb7-b8c0-5075dc9bf547.png)
 
 
+
+
+
 ![image](https://user-images.githubusercontent.com/93079874/183636955-85a8ebde-0bb7-465b-a273-36d92a5e78ca.png)
-
-
-
