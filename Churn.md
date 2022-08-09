@@ -71,3 +71,15 @@ MontlyCharge	The amount charged to the customer monthly
 TotalCharges	The total amount charged to the customer
 
 Churn	Whether the customer left or not (Yes or No)
+
+
+*Plan of Action:-*
+
+1. Will built a machine learning model and will predict the results.
+
+2. Will perform deep analysis using any of the business intelligence tool.
+
+
+
+********************************************************************Data Analysis using PowerBI************************************************************************
+
